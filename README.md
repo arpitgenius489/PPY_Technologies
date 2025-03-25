@@ -1,2 +1,0 @@
-# PPY_Technologies
-None
