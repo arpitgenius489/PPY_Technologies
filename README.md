@@ -8,7 +8,7 @@ This is a Spring Boot application for managing a `master_list` API. It connects 
 - **POST /v2/master_list**: Add a new master list entry.
 - **GET /v2/master_list**: Retrieve all master list entries.
 
----
+--- 
 
 ## Prerequisites
 Before running this application, ensure you have the following installed:
