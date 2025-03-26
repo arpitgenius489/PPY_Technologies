@@ -10,7 +10,7 @@ This is a Spring Boot application for managing a `master_list` API. It connects 
 
 ---
 
-## h
+## Prerequisites
 Before running this application, ensure you have the following installed:
 1. **Java 17** or higher
 2. **Maven** (or use the Maven Wrapper included in the project)
